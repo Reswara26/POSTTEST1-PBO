@@ -11,7 +11,7 @@ Program ini adalah program sederhana berbasis Java untuk mengelola data armada p
 Data yang dikelola meliputi:
 - ID Pesawat
 - Tipe Pesawat
-- Kapasitas Penumpang
+- Kapasitas Maksimal Penumpang
 
 Fitur Program:
 1. Tambah Armada - Digunakan untuk menambahkan data pesawat baru
